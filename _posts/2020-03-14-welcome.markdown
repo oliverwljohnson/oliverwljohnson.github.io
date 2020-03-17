@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Welcome"
+date: 2020-03-13
+categories:
+  - Fasting
+  - General
+description: Introduction to my blog
+image: 
+image-sm: https://picsum.photos/500/300?image=1003
+---
+Welcome to my blog. I haven't written publically for a year since I developed my [IoT Glowstick](https://cs.anu.edu.au/courses/china-study-tour/news/#oliver-johnson), a wearable music selection system. I'd like this to be a place to collate my views on current events, share interesting insights as well as a bit of a personal repository as I complete my time at ANU and move onto other things.
+
+From completing that project I discovered the reinforcement learning of blogging and I hope to apply ot to the three courses I'm taking this semester:
+
+- Corporate Valuation
+- Offensive Cyber Security Operations
+- Computer Vision
+
+But first...
+
+## Challenge - 31 day fast
+I've recently been reading up on the benefits of extended fasting. I am going to attempt a 31 day extended fast starting from tomorrow March 18th 2020 at 00:00 and finish at 23:59 on Friday 17th April. I have played around with intermittent fasting and shorter fasts for the past few months and have managed to come from 110kg to 100.5kg in the last year. However due to the ability of carbohydrates to retain water 4:1 and 100 kilos still being a large mass. I've found falling off the wagon can set my back three or four kilos in 48 hours.
+
+##### Why I'm doing it
+Despite the biblical tones of fasting for a month before easter, my pursuit is not a holy one. Its not often that I challenge my body physically. The last serious challenge being the 2017 Inward Bound race where I ran 58km overnight through the Canberra wilds. That effort seriously turned me off running and I've never really returned to it. This is a chance for to set myself a task that is fully within my control and yet seems so unattainable due to motivation and discipline that has slipped since their post-scondary school highs.
+
+Combine the mental challenge with the health benefits of weight loss, sustained low insulin and autophagy and I cannot see much of a downside except from my own intolerance to hunger.
+
+I'll keep track of my biometrics and mood using the LIFE app and make a weekly post here.
+
+You're welome to get intouch with me at oliverwljohnson@gmail.com
+
+Welcome to my blog.
+
