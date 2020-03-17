@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Welcome"
-date: 2020-03-13
+date: 2020-03-17
 categories:
   - Fasting
-  - General
 description: Introduction to my blog
-image: 
-image-sm: https://picsum.photos/500/300?image=1003
+image: assets/SYNT.png
+image-sm: 
 ---
 Welcome to my blog. I haven't written publically for a year since I developed my [IoT Glowstick](https://cs.anu.edu.au/courses/china-study-tour/news/#oliver-johnson), a wearable music selection system. I'd like this to be a place to collate my views on current events, share interesting insights as well as a bit of a personal repository as I complete my time at ANU and move onto other things.
 

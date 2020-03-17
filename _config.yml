@@ -1,21 +1,25 @@
 # Site/SEO settings
-email: 
+email: oliverwljohnson@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
+title: synt
+description: Systems Intelligence 
 url: ""
 baseurl: ""
-twitter_username: 
+twitter_username: owlj7
 default_img: 
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Oliver Johnson
+profile_img: https://media-exp1.licdn.com/dms/image/C5103AQH-U5mJSOUPsw/profile-displayphoto-shrink_200_200/0?e=1590019200&v=beta&t=hbwTbBQAd1c1y35yHHJEWgFCz9N_oh5bihFtdhaDRNc
+profile: /assets/SYNT.png
 social:
-  github: 
+  github: https://github.com/oliverwljohnson
+  linkedin-in: https://www.linkedin.com/in/oliver-johnson/
+  youtube:
+  patreon:
+  
 
 # Build settings
 markdown: kramdown
